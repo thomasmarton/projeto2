@@ -1,0 +1,68 @@
+/*
+
+Cenas pra fazer {
+    Login {
+        Username
+        Palavra-passe:
+            Metodo de encriptacao --> Pegar no caracter e remover 3 no seu valor (Tabela ASCII)
+    }
+
+    Servicos SEM COVID {
+        Serviços prestados {
+            -   Medicina Familiar
+            -   Cardiologia
+            -   Fisioterapia
+            -   Otorrinolaringologia
+            -   Nutricao
+        }
+        -   2 medicos especializados p/ Serviço;
+    }
+
+    Servicos COM COVID {
+        -   3 medicos especializados Serviço;
+    }
+
+    -   Adicionar, editar, pesquisar, eliminar medicos
+    -   Adicionar, editar, pesquisar, eliminar pacientes SEM COVID
+    -   Adicionar, editar, pesquisar, eliminar pacientes COM COVID
+
+    Paciente {
+        Dados {
+            -   Numero interno
+            -   Nome completo
+            -   Idade
+            -   Sexo
+            -   Localidade
+            -   Telefone
+            -   Problema de saude
+            -   Data primeira consulta
+            -   Data proxima consulta
+            -   Situacao clinica
+            -   Nome do medico
+            -   Nome da especialidade medica
+        }
+        -   Todos os detalhes do paciente podem ser pesquisados, pelo nome e numero de identificao pessoal
+    }
+
+    Medico {
+        Dados {
+            -   Numero interno profissional
+            -   Nome completo
+            -   Idade
+            -   Nome especialidade medica
+            -   Numero anos de experiencia
+            -   Localidade
+            -   Telefone
+            -   Salario
+            -   Horario trabalho
+        }
+        -   Preencher detalhes clinicos paciente, eventualmente, data proxima consulta
+        -   Consultar informacoes das consultas anteriores
+        -   Emitir receitas medicas OU internamento hospitalar
+        -   Emitir declaracao de justificacao
+        -   Emitir relatorio clinico
+    }
+    -   Os dados inseridos, editados e consultados no sistema de informação da unidade hospitalar pública devem estar guardados em ficheiros de texto, de forma a permitir a cada médico consultar as informações clínicas dos seus pacientes (nomeadamente, o seu histórico clínico), a cada paciente a consulta ao relatório clínico do médico especialista e ao administrador do sistema de informação qualquer consulta para efeitos da sua gestão.
+}
+
+*/

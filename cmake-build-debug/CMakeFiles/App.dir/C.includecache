@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/andre/Desktop/projeto2/src/uteis/ficheiros.h
+
+C:/Users/andre/Desktop/projeto2/src/utilizadores.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+utilizadores.h
+C:/Users/andre/Desktop/projeto2/src/utilizadores.h
+uteis/ficheiros.h
+C:/Users/andre/Desktop/projeto2/src/uteis/ficheiros.h
+
+C:/Users/andre/Desktop/projeto2/src/utilizadores.h
+stdio.h
+-
+
